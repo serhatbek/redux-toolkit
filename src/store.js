@@ -9,4 +9,6 @@ export const store = configureStore({
 
 /**
  ** [store] ➡ Store uygulamının mevcut tüm state'ini oluşturur.
+ **1 [useSelector] ➡ useSelector ile componentlerden statelere ulaşıyoruz.
+ **2 Component de context api de oluşturduğumuz useContext costum hook gibi
  */
